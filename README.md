@@ -4,6 +4,7 @@
 ### 🌍  I'm based in Jakarta, Indonesia* 
 ### ✉️  You can contact me at [pojokcodeid@gmail.com](mailto:pojokcodeid@gmail.com)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pojokcodeid&label=Profile%20views&color=0e75b6&style=flat" alt="pojokcodeid" /> </p>
 <a href="https://www.github.com/pojokcodeid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/pojokcodeid?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/pojokcodeid_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/pojokcodeid_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
