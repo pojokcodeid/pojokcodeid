@@ -5,13 +5,17 @@ using namespace std;
 
 int main() {
   cout << "Hi, Welcome!";
+  cout << "My name is Asep Komarudin";
+  cout << "I'm Web Developer, Database Analis";
+  cout << "I'm based in Jakarta, Indonesia*";
+  cout << "You can contact me at pojokcodeid@gmail.com";
   return 0;
 } 
 ```
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Asep Komarudin
+<!--# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Asep Komarudin
 ## Web Developer, Database Analis
 ### 🌍  I'm based in Jakarta, Indonesia* 
-### ✉️  You can contact me at [pojokcodeid@gmail.com](mailto:pojokcodeid@gmail.com)
+### ✉️  You can contact me at [pojokcodeid@gmail.com](mailto:pojokcodeid@gmail.com)-->
 
 <a href="https://www.github.com/pojokcodeid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/pojokcodeid?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/pojokcodeid_" target="_blank" rel="noreferrer"><img
