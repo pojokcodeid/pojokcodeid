@@ -1,5 +1,5 @@
 <!-- ![home!](background2.png) -->
-```javascript
+```cpp
 #include <iostream>
 using namespace std;
 
