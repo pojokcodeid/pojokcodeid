@@ -96,7 +96,7 @@ src="https://img.shields.io/twitter/follow/pojokcodeid_?logo=twitter&style=for-t
 </p>
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pojokcodeid&theme=transparent)](https://github.com/pojokcodeid)
-[![](https://github-readme-activity-graph.vercel.app/graph?username=pojokcodeid&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=pojokcodeid&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/pojokcodeid)
 
 ### Languages
 
