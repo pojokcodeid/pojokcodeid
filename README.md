@@ -83,6 +83,16 @@ src="https://img.shields.io/twitter/follow/pojokcodeid_?logo=twitter&style=for-t
     <img src="https://skillicons.dev/icons?i=express,nestjs,laravel">
 </div>
 
+<div gap-bottom: "5px">
+    <h3>Databases:</h3>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb">
+</div>
+
+<div gap-bottom: "5px">
+    <h3>Tools:</h3>
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,neovim,notion">
+</div> 
+
 
 ### Socials
 <p style="display: inline-block;padding:30px;" align="left">
