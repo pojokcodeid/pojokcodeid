@@ -85,7 +85,7 @@ src="https://img.shields.io/twitter/follow/pojokcodeid_?logo=twitter&style=for-t
 
 <div gap-bottom: "5px">
     <h3>Databases:</h3>
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres">
 </div>
 
 <div gap-bottom: "5px">
@@ -126,9 +126,6 @@ src="https://img.shields.io/twitter/follow/pojokcodeid_?logo=twitter&style=for-t
   </a>
   <a href="https://twitter.com/pojokcodeid_" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter">
-  </a>
-  <a href="https://www.facebook.com/pojokcodeid/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook">
   </a>
 </div>
 
