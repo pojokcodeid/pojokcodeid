@@ -130,9 +130,6 @@ src="https://img.shields.io/twitter/follow/pojokcodeid_?logo=twitter&style=for-t
   <a href="https://www.facebook.com/pojokcodeid/" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook">
   </a>
-   <a href="https://youtube.com/pojokcode" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube">
-  </a>
 </div>
 
 ### Recent Activities
