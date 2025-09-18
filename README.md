@@ -70,7 +70,12 @@ src="https://img.shields.io/twitter/follow/pojokcodeid_?logo=twitter&style=for-t
 
 <div margin-bottom:"5px">
     <h3>Languages:</h3>
-    <img src="https://skillicons.dev/icons?i=php,js,ts,java,py,kotlin,lua,cfml">
+    <img src="https://skillicons.dev/icons?i=php,js,ts,java,py,kotlin,lua,go">
+</div>
+
+<div margin-bottom:"5px">
+    <h3>Front-end:</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,jquery,react,npm,yarn,vite">
 </div>
 
 
