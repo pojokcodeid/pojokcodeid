@@ -94,7 +94,7 @@ src="https://img.shields.io/twitter/follow/pojokcodeid_?logo=twitter&style=for-t
 </div> 
 
 
-### Socials
+<!-- ### Socials
 <p style="display: inline-block;padding:30px;" align="left">
     <a href="https://www.facebook.com/pojokcodeid" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
@@ -111,7 +111,29 @@ src="https://img.shields.io/twitter/follow/pojokcodeid_?logo=twitter&style=for-t
     <a href="https://www.youtube.com/c/pojokcode" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
     </a>
-</p>
+</p> -->
+
+## 🌐 Socials:
+<div align="left">
+  <a href="mailto:pojokcodeid@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/asep-komarudin-63b8b2164/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin">
+  </a>
+  <a href="https://www.instagram.com/pojokcodeid_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram">
+  </a>
+  <a href="https://twitter.com/pojokcodeid_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter">
+  </a>
+  <a href="https://www.facebook.com/pojokcodeid/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook">
+  </a>
+   <a href="https://youtube.com/pojokcode" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube">
+  </a>
+</div>
 
 ### Recent Activities
 
