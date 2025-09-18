@@ -102,7 +102,7 @@ src="https://img.shields.io/twitter/follow/pojokcodeid_?logo=twitter&style=for-t
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pojokcodeid&theme=transparent)](https://github.com/pojokcodeid)
 [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pojokcodeid&theme=transparent)](https://github.com/pojokcodeid)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=pojokcodeid&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/pojokcodeid)
+<!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=pojokcodeid&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/pojokcodeid) -->
 
 ### OSS Insight
 
