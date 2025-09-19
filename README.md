@@ -75,7 +75,7 @@ src="https://img.shields.io/twitter/follow/pojokcodeid_?logo=twitter&style=for-t
 
 <div margin-bottom:"5px">
     <h3>Front-end:</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,jquery,react,npm,yarn,vite">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,jquery,react,vite">
 </div>
 
 <div gap-bottom: "5px">
